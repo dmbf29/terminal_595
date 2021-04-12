@@ -1,0 +1,60 @@
+pwd
+=> present working directory (aka where am i?)
+
+ls / ll
+=> list contents of directory
+
+cd folder_name
+=> changes directory
+
+cd ..
+=> goes back in the parent directory
+
+mkdir new_folder_name
+=> makes a new directory
+
+touch filename.ext
+=> creates our file
+
+rm filename
+=> removes file
+
+rm -r folder_name
+=> removes directory
+
+rm -f filename
+rm -rf folder_name
+=> force remove
+
+stt
+=> opens sublime
+
+code .
+=> open VS code
+
+mv thing place
+=> moves thing to the place
+
+mv filename new_filename
+=> rename the file/folder
+
+cat filename
+=> prints contents into Terminal
+
+ctrl + a
+=> jumps to the beginning of line
+
+ctrl + e
+=> jumps to the end of line
+
+
+
+
+
+
+
+
+
+
+
+
