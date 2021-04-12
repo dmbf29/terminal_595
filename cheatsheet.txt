@@ -59,3 +59,8 @@ clear
 
 git init
 => creates git repository
+
+git add filname
+=> takes file to be committed
+
+git commit --message "adds message to commit"
