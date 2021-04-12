@@ -64,3 +64,6 @@ git add filname
 => takes file to be committed
 
 git commit --message "adds message to commit"
+
+
+this is on a branch
