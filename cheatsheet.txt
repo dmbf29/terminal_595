@@ -47,14 +47,15 @@ ctrl + a
 ctrl + e
 => jumps to the end of line
 
+ctrl + u
+=> deletes the line
+
+opt (alt) + click
+=> moves cursor
+
+clear
+=> clears terminal
 
 
-
-
-
-
-
-
-
-
-
+git init
+=> creates git repository
